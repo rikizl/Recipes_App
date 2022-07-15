@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "62a284ec318597c584bca818"
+  },
+  "id": "5",
+  "name": "גלידה חלבית",
+  "type": "גלידות",
+  "level": "3",
+  "image": "",
+  "ingredients": "",
+  "instructions": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a284ee318597c584bca81a"
+  },
+  "id": "5",
+  "name": "גלידה חלבית",
+  "type": "גלידות",
+  "level": "3",
+  "image": "",
+  "ingredients": "",
+  "instructions": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a284ef318597c584bca81c"
+  },
+  "id": "5",
+  "name": "גלידה חלבית",
+  "type": "גלידות",
+  "level": "3",
+  "image": "",
+  "ingredients": "",
+  "instructions": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a284ef318597c584bca81e"
+  },
+  "id": "5",
+  "name": "גלידה חלבית",
+  "type": "גלידות",
+  "level": "3",
+  "image": "",
+  "ingredients": "",
+  "instructions": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a284ef318597c584bca820"
+  },
+  "id": "5",
+  "name": "גלידה חלבית",
+  "type": "גלידות",
+  "level": "3",
+  "image": "",
+  "ingredients": "",
+  "instructions": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a284f0318597c584bca822"
+  },
+  "id": "5",
+  "name": "גלידה חלבית",
+  "type": "גלידות",
+  "level": "3",
+  "image": "",
+  "ingredients": "",
+  "instructions": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62a284f0318597c584bca824"
+  },
+  "id": "5",
+  "name": "גלידה חלבית",
+  "type": "גלידות",
+  "level": "3",
+  "image": "",
+  "ingredients": "",
+  "instructions": "",
+  "__v": 0
+}]
