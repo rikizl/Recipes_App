@@ -48,6 +48,7 @@ router.post("/addRecipe", function(req, response)
 router.delete("/deleteRecipe", function(req, response)
 {
     let rec = req.body;
+    console.log("id: ",rec._id);
     recipe.deleteOne({id:rec._id}, (err, results)=>{
         console.log(rec._id);
         if (err)

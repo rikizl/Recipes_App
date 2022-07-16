@@ -9,7 +9,7 @@ var mymongo = require("mongoose")
 //שם מסד הנתונים - מבדיל בין אותיות רישיות
 //2. הגדרות אבטחה
 mymongo.connect("mongodb://localhost:27017/RecipesWebsite", 
-{useNewUrlParser:true, useUnifiedTopology:true})
+{useNewUrlParser:true, useUnifiedTopology:true}) 
 //פקודה זו מיצרת את התקשורת עם מסד הנתונים ומחזירה משתנה המייצג את מסד הנתונים
 var db = mymongo.connection
 //כדי לפתוח בפועל את המסד ולאפשר גישה לנתונים עצמם
